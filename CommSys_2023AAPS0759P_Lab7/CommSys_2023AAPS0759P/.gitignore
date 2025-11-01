@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Audio files (uncomment if you don't want to track audio files)
+# *.wav
+# *.mp3
+
+# Output files
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Local development settings
+.env
+
+# System Files
+.DS_Store
+Thumbs.db
