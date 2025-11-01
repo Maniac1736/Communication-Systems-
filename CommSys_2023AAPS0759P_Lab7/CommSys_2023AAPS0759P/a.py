@@ -21,7 +21,7 @@ def main():
     # #for k_f = 0.5, similarly can do for other values of k_f
     # fm_output = txmod('FM', fc, 0.5, m_t, t)
     # plot_time(t, fm_output)
-
+    #print("testing")
     # m_t_2, t_2 = infosource("sinc", 2*f, fs, amp, T)
     # fm_out_2 = txmod('FM', fc, 5, m_t_2, t_2) 
     # plot_time(t_2, m_t_2)

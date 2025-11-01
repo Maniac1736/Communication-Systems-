@@ -1,6 +1,6 @@
 # Communication Systems Lab 7
 
-This project implements various digital communication modulation and demodulation techniques including DSB-SC (Double-Sideband Suppressed-Carrier), AM (Amplitude Modulation), and FM (Frequency Modulation).
+This project implements various digital communication modulation and demodulation techniques including DSB-SC (Double-Sideband Suppressed-Carrier), AM (Amplitude Modulation), and FM (Frequency Modulation)
 
 ## Features
 
